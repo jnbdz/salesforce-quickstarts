@@ -1,6 +1,14 @@
 # Salesforce | Quickstarts
 💲 Salesforce | Quickstarts 💲
 
+### Kafka Connector
+
+#### Resource
+- [Salesforce Connector (Source and Sink)](https://www.confluent.io/hub/confluentinc/kafka-connect-salesforce)
+- [PushTopic Events (Legacy)](https://developer.salesforce.com/docs/atlas.en-us.api_streaming.meta/api_streaming/pushtopic_events_intro.htm)
+- [Enterprise Messaging Platform Events](https://developer.salesforce.com/docs/atlas.en-us.platform_events.meta/platform_events/platform_events_intro_emp.htm)
+- [Change Data Capture](https://developer.salesforce.com/docs/atlas.en-us.change_data_capture.meta/change_data_capture/cdc_intro.htm)
+
 ## Resources
 ### API
 #### SOQL
